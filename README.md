@@ -3,7 +3,7 @@
 
 We are launching our gen1 collection with a supply of 222 
 
-Who has our nft in their wallets can access our website, users can connect & authorize their twitter account to our bot.. Now the juicy part, whenever a twitter user creates a space our twitter bot also joins the space as a speaker, It monitors how many people are in the space and according to it, it plays ads. I know it's annoying, we have a solution for that whenever the user gives access the bot to speak the ad will play.
+Who has solspace nft in their wallets can access our website, users can connect & authorize their twitter account to our bot.. Now the juicy part, whenever a twitter user creates a space our twitter bot also joins the space as a speaker, It monitors how many people are in the space and according to it, it plays ads. I know it's annoying, we have a solution for that whenever the user gives access the bot to speak the ad will play.
 
 Ad revenue 40% to the holders, 30% to the space creator ( this will vary depending on the budget of the advertiser & listeners ) , 20% to the team & 10% for development of the project.
 
