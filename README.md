@@ -1,4 +1,4 @@
-#  Breif document of how solspace works
+# How solspace works
 
 
 We are launching our gen1 collection with a supply of 222 
